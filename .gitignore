@@ -17,3 +17,7 @@ wheels/
 *.dat
 
 *.info
+
+# Qdrant vector-DB files
+qdrant_storage/
+DLT_ETL
